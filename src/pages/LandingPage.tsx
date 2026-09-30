@@ -508,7 +508,7 @@ function LandingPage() {
 
                   {/* Project Link */}
                   <a
-                    href="https://example.com"
+                    href="https://afdil-portfolio.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="
